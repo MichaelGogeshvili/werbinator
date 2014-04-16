@@ -1,0 +1,12 @@
+li.vidos {
+    display: inline-table;
+    border: 1px solid gray;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 9px;
+    background-color: #ABBF78;
+    /**background-image: url('/assets/blast_logo.png');*/
+    background-size: 110%;
+    background-position: 2px 11px;
+    background-repeat: no-repeat;
+}
