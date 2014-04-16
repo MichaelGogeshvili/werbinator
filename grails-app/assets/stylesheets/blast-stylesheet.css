@@ -1,12 +1,22 @@
 li.vidos {
+    font: 34px 'Arial Narrow', sans;
     display: inline-table;
     border: 1px solid gray;
-    margin: 20px;
-    padding: 8px;
+    margin-top: 30px;
+    padding-left: 8px;
     border-radius: 9px;
     background-color: #ABBF78;
     /**background-image: url('/assets/blast_logo.png');*/
     background-size: 110%;
     background-position: 2px 11px;
     background-repeat: no-repeat;
+}
+.promote-box {
+    border:0px solid black; float: right;
+    font: 11px 'Arial Narrow', sans;
+    transform:  rotate(270deg) translate(-8px, 2px);
+    -webkit-transform: rotate(270deg) translate(-8px, 2px);
+    -moz-transform: rotate(270deg) translate(-8px, 2px);
+    -o-transform: rotate(270deg) translate(-8px, 2px);
+    -ms-transform: rotate(270deg) translate(-8px, 2px);
 }

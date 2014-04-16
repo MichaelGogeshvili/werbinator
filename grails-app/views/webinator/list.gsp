@@ -5,7 +5,8 @@
     </head>
     <body>
         <g:each in="${items}" var="item" index="pointer">
-            <li class="vidos"> ${item}</li>
+            <li class="vidos">${item}<div class="promote-box">pro</div></li>
+            <!--after-->
         </g:each>
     </body>
 </html>
