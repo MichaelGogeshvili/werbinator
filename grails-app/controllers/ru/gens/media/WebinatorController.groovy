@@ -6,6 +6,6 @@ class WebinatorController {
         return [];
     }
     public list() {
-        [items:["Xyz","Wwz"]];
+        [items:["Av","Bv","Cv","Dv","Ev","Xv","Yz","Zv",]];
     }
 }
