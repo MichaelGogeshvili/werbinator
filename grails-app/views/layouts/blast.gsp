@@ -13,6 +13,9 @@
             <asset:stylesheet src="bootstrap-responsive.css"/>
             <asset:javascript src="bootstrap.min.js"/>
 
+            <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" type="text/css" rel="stylesheet"/>
+            <asset:stylesheet src="blast-stylesheet.css"/>
+            <asset:stylesheet src="bootstrap.css"/>
 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
